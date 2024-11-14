@@ -14,5 +14,6 @@
 • Navigating File Paths in Node.js with __filename and __dirname: https://medium.com/@adarshahelvar/navigating-file-paths-in-node-js-with-filename-and-dirname-1dd2656f8d7e
 • Environment Variables in Node.js: vhttps://medium.com/@adarshahelvar/environment-variables-in-node-js-3796f20141df
 • Handling Input and Output in Node.js: https://medium.com/@adarshahelvar/handling-input-and-output-in-node-js-fd0141fff210
+• Writing Files with writeFile and writeFileSync in Node.js: https://medium.com/@adarshahelvar/writing-files-with-writefile-and-writefilesync-in-node-js-52c523e5afeb
 
 
